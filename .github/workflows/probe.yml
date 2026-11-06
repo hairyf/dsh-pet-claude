@@ -4,7 +4,15 @@ on:
 permissions:
   contents: read
 jobs:
-  hello:
-    runs-on: ubuntu-latest
+  mac14:
+    runs-on: macos-14
     steps:
-      - run: echo hello
+      - run: sw_vers
+  mac15:
+    runs-on: macos-15
+    steps:
+      - run: sw_vers
+  mac13:
+    runs-on: macos-13
+    steps:
+      - run: sw_vers
