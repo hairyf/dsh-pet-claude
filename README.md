@@ -2,7 +2,7 @@
 
 166 个透明动作（待机、点击回应、工作状态、吃喝、玩耍、才艺、手工节日、时节等）。 由 [hunmer/aboutme-pets](https://github.com/hunmer/aboutme-pets) 的 166 张透明 WebP 精灵图逐帧转码而来，保留原始帧数、时序与透明通道。
 
-<!-- upstream-commit: 0000000000000000000000000000000000000000 -->
+<!-- upstream-commit: d5a117c4264ca48786faacfec16e558e64625fbf -->
 
 <p align="center">
   <img src="preview/preview.gif" width="240" alt="Claude 桌宠 预览">
