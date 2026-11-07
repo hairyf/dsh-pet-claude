@@ -1,8 +1,8 @@
 {
   "id": "dsh-pet-claude",
   "kind": "dsh",
-  "displayName": "Claude 桌宠",
-  "description": "166 个透明动作的 Claude 桌宠，640×360 画布、12 fps，含透明待机动画。",
+  "displayName": "Claude",
+  "description": "优雅又严谨的橙发程序员 Claude。拥有 166 种灵动姿态，伴随书本与思考动画，让你的桌面多了一位严格把关的小伙伴。",
   "configPath": "config.jsonc",
   "uriPath": "webm",
   "macUriPath": "mov",
